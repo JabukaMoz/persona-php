@@ -35,7 +35,7 @@ $(document).ready(function(e) {
              verifyAssertion(assertion);
         },
         onlogout: function() {
-       		//window.location = "logout.php";	
+       		window.location = "logout.php";	
         },
         loggedInUser: undefined
     });	
