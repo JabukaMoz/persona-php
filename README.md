@@ -22,6 +22,6 @@ Por exemplo:
 ```
 
 Mais informações
-[Mozilla Persona] //Logo mais em pt-BR também! 
+[Mozilla Persona]  <-Link em Inglês
 
 [Mozilla Persona]:https://developer.mozilla.org/en-US/Persona/
